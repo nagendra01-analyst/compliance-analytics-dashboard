@@ -1,0 +1,5 @@
+case_id,analyst_id,region,status,opened_date,closed_date,report_due_date
+1001,A001,US,Open,2024-11-01,,2024-12-15
+1002,A002,EU,Closed,2024-10-12,2024-11-10,2024-11-20
+1003,A001,US,Open,2024-12-01,,2025-01-10
+1004,A003,APAC,Closed,2024-09-01,2024-09-25,2024-10-01
